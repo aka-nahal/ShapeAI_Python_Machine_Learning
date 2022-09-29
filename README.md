@@ -13,6 +13,6 @@ I enjoyed these 7 days, you can as well. To Register for next free 7 days bootca
 <li><a href="https://in.linkedin.com/company/shapeai">LinkedIn</a>
 <li><a href="https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
 <li><a href="https://www.youtube.com/c/DevTownIndia/">Youtube</a>
-<li><a href="https://github.com/ShapeAI"></a>
+<li><a href="https://github.com/ShapeAI">Github</a>
 
  
