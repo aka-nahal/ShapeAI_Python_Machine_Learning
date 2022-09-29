@@ -9,7 +9,7 @@ Hi I Made This Project During the 7 days Free Bootcamp, conducted by <b> SHAPEAI
 <li>Machine Learning
 <li>TensorFlwo
 <br>During these 7 days, and everything was explained from the very basics so that anyone with zero experience on programming can learn.
-I enjoyed these 7 days, you can as well. To Register for next free 7 days bootcamp, visit: <a href="https:/www.shapeai.tech/>www.shapeai.tech</a>
+I enjoyed these 7 days, you can as well. To Register for next free 7 days bootcamp, visit:<br> <a href="https:/www.shapeai.tech/>www.shapeai.tech</a><br>
 <li><a href="https://in.linkedin.com/company/shapeai">LinkedIn</a>
 <li><a href="https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
 <li><a href="https://www.youtube.com/c/DevTownIndia/">Youtube</a>
